@@ -5,7 +5,7 @@ $host     = 'localhost';
 $porta    = '5432';
 $banco    = 'projeto_tarefas';
 $usuario  = 'postgres';
-$senha    = 'COLOQUE_A_SENHA_AQUI';
+$senha    = 'postgres';
 
 $dsn = "pgsql:host=$host;port=$porta;dbname=$banco";
 
